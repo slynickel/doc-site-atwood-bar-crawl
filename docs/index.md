@@ -15,7 +15,7 @@ of bars near where Nick lives.
 
 It's being called the first annual "DOA Bar Crawl" because all good bar crawls have a "fun" name. 
 
-## Where
+## Where?
 
 These are the target bars. A tentative order is below.
 
@@ -46,3 +46,4 @@ See [Nick's Current location](https://maps.app.goo.gl/3NqGnWHv5FHChQVc8) (the li
     * A few of the places allow carry in (called out above). There are a number of vegan places on the Atwood.
 * This website is terrible, what did you use to make it?
     * Gee, thanks. Nick doesn't use any social media that makes it possible to setup a public event so this static site is filling the need. Cloudflare pages allows you to host this type of thing without needing to run any servers which is nice.
+    * See https://github.com/slynickel/doc-site-atwood-bar-crawl for the source.
