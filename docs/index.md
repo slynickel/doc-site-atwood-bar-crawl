@@ -31,6 +31,33 @@ See [Nick's Current location](https://maps.app.goo.gl/3NqGnWHv5FHChQVc8) (the li
 
 ### Full bar list
 
+| Place | Cash only? | Food? | Notes |
+| --- | --- | --- | --- |
+| 1. Ideal Bar | Cash only | No | Very dive-y |
+| 2. [One Barrel] | No | BBQ from 4-8 PM | Just beer offerings |
+| 3. [Players] | Cash only | Yes | Less fancy beer offerings |
+| 4. BarelyPop | No | No  | Allows food carry-ins. Few non-alcoholic options and ciders in addition to 35 beer taps |
+| 5. The Atwood | Unknown | Yes | Standard bar options for alcohol |
+| 6. [Wilson's] | No | Yes | Standard bar options for alcohol |
+| 7. [Harmony Bar] | No | Yes | Standard bar options for alcohol |
+| 8. [Ohio Tavern] | No (maybe yes) | No | Smallest location on the list. High probably of skipping this one |
+| 9. [Starkweather Brewing] | No | Yes | Mostly beer offerings |
+
+[One Barrel]: https://www.onebarrelbrewing.com/locations/madison-taproom
+[Players]: https://www.playerssportsbarmadison.com/
+[Wilson's]: https://wilsonssportsbarandgrill.com/
+[Harmony Bar]: https://harmonybarandgrill.com/
+[Ohio Tavern]: https://theohiotavern.com/home/
+[Starkweather Brewing]: https://starkweatherbrewing.com/
+
+### Honorary mentions 
+
+These are either not on or not a bar, possible we could consider them.
+
+* Woody & Anne's - Cash only dive bar, a few blocks off Atwood. Have shuffle board! Quite small. Nick was here once in the last few years and ran into one of his highschool teachers.
+* Mickey's Tavern - Has food and drinks. Interior is like a house. Few blocks off Atwood.
+* [O'so Madhouse](https://www.osobrewing.com/the-madhouse) - Brewery, few blocks off Atwood. 
+
 ## Other notes / FAQ
 * How many people are you expecting?
     * Not sure. If no one shows up I'll be doing it alone.
