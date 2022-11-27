@@ -21,9 +21,11 @@ These are the target bars. A tentative order is below.
 
 <!--
 This is a MyMaps Google map. 
+One thing that seems a bit finicky is exactly what height and location you start at. The `&z=16` was
+added in attempt to force the site to not be super zoomed out. It's not clear that it works very well.
  -->
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UVdmLFwleORKFIRq0Mciyfmav4QNYWw&ehbc=2E312F" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UVdmLFwleORKFIRq0Mciyfmav4QNYWw&ehbc=2E312F&z=16" width="100%" height="480"></iframe>
 
 
 
