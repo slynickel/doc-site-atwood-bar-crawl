@@ -1,0 +1,11 @@
+site_name: DOA Bar Crawl 2023
+site_url: https://barcrawl.krueger.app
+theme: 
+  name: null
+  custom_dir: 'cinder'
+  disable_nav_search: true
+  disable_footer: true
+  navigation_depth: 1
+nav:
+  # Setting key name to empty quotes so the page title is just 'DOA Bar Crawl 2023'
+  - '': index.md
