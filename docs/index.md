@@ -50,9 +50,9 @@ See [Nick's Current location](https://maps.app.goo.gl/3NqGnWHv5FHChQVc8) (the li
 [Ohio Tavern]: https://theohiotavern.com/home/
 [Starkweather Brewing]: https://starkweatherbrewing.com/
 
-### Honorary mentions 
+### Honorable mentions 
 
-These are either not on or not a bar, possible we could consider them.
+These are either not on Atwood or not a bar, possible we could consider them.
 
 * Woody & Anne's - Cash only dive bar, a few blocks off Atwood. Have shuffle board! Quite small. Nick was here once in the last few years and ran into one of his highschool teachers.
 * Mickey's Tavern - Has food and drinks. Interior is like a house. Few blocks off Atwood.
@@ -62,7 +62,7 @@ These are either not on or not a bar, possible we could consider them.
 * How many people are you expecting?
     * Not sure. If no one shows up I'll be doing it alone.
 * Is there an RSVP, who is invited?
-    * There isn't any RSVP, anyone is invited.
+    * There isn't any RSVP, anyone is invited. If you want to text Nick to let him know you are coming that would cool.
 * Is this a formal thing with any of the bars listed?
     * Nope. Completely informal. I don't anticipate enough people to require any sort of planning.
 * What are we going to do for 5 hours?
@@ -73,4 +73,4 @@ These are either not on or not a bar, possible we could consider them.
     * A few of the places allow carry in (called out above). There are a number of vegan places on the Atwood.
 * This website is terrible, what did you use to make it?
     * Gee, thanks. Nick doesn't use any social media that makes it possible to setup a public event so this static site is filling the need. Cloudflare pages allows you to host this type of thing without needing to run any servers which is nice.
-    * See https://github.com/slynickel/doc-site-atwood-bar-crawl for the source.
+    * See [slynickel/doc-site-atwood-bar-crawl](https://github.com/slynickel/doc-site-atwood-bar-crawl) for the source.
