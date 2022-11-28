@@ -17,7 +17,7 @@ It's being called the first annual "DOA Bar Crawl" because all good bar crawls h
 
 ## Where?
 
-These are the target bars. A tentative order is below.
+These are the target bars. 
 
 <!--
 This is a MyMaps Google map. 
@@ -31,7 +31,7 @@ added in attempt to force the site to not be super zoomed out. It's not clear th
 
 See [Nick's Current location] (the link will only work day of). 
 
-Goal of this order is to prioritize places with good craft beer over just standard bars. Realistically we aren't going to hit all of these. The list is optimistically listing off 7 bars.
+A tentative order is below. Goal of this order is to prioritize places with good craft beer over just standard bars. Realistically we aren't going to hit all of these. The list is optimistically listing off 7 bars.
 
 * (2) Start at One Barrel since they have good craft beer.
 * (4) BarelyPop next which also has a large variety of good beers.
@@ -52,7 +52,7 @@ The distance from Ideal Bar (1) to Starkweather Brewing (9) is about 0.5 miles. 
 | 1. Ideal Bar | Cash only | No | Very dive-y |
 | 2. [One Barrel] | No | BBQ from 4-8 PM | Just beer offerings |
 | 3. [Players] | Cash only | Yes | Less fancy beer offerings |
-| 4. BarelyPop | No | No  | Allows food carry-ins. Few non-alcoholic options and ciders in addition to 35 beer taps |
+| 4. BarleyPop | No | No  | Allows food carry-ins. Few non-alcoholic options and ciders in addition to 35 beer taps |
 | 5. The Atwood | Unknown | Yes | Standard bar options for alcohol |
 | 6. [Wilson's] | No | Yes | Standard bar options for alcohol |
 | 7. [Harmony Bar] | No | Yes | Standard bar options for alcohol |
@@ -68,7 +68,7 @@ The distance from Ideal Bar (1) to Starkweather Brewing (9) is about 0.5 miles. 
 
 ### Honorable mentions 
 
-These are either not on Atwood or not a bar, possible we could consider them.
+These are either not on Atwood or not a bar, we could consider them.
 
 * [Alchemy](https://www.alchemymadison.com/) This is part of the Atwood area but its more of a restaurant then bar. It does have a raised small bar that is first come first serve.
 * Woody & Anne's - Cash only dive bar, a few blocks off Atwood. Have shuffle board! Quite small. Nick was here once in the last few years and ran into one of his highschool teachers.
