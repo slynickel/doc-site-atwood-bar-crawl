@@ -1,3 +1,11 @@
+## Update Saturday January 14th
+<span style="font-size:larger;">word
+As of 1/13/23 we are still on! I'll be at One Barrel slightly before 2pm. 
+
+[See my live location here!](https://maps.app.goo.gl/Waxep7NezS9doh6V9
+).
+</span>
+
 ## What?
 The Drinking-on-Atwood (DOA) Bar Crawl 2023.
 
@@ -35,7 +43,7 @@ A tentative order is below. Goal of this order is to prioritize places with good
 There are 6 listed below which is probably more then we'll get to but we will try.
 
 * (1) Start at One Barrel since they have good craft beer.
-* (2) BarelyPop next which also has a large variety of good beers.
+* (2) BarleyPop next which also has a large variety of good beers.
 * (3) The Atwood next which half way to Harmony (which isn't very far either). The Atwood does have a little food.
 * (4) Harmony Bar which has a little food and marks the farthest out bar.
     * Could go all the way down to Starkweather Brewing if things are really going well.
@@ -87,7 +95,7 @@ These are either not on Atwood or not a bar. These are the light blue dots, or l
 * Is there an RSVP, who is invited?
     * Anyone is invited. No RSVP required, if you want to text Nick to let him know you are coming that would cool.
 * How will I know where to go at X time? 
-    * I plan on putting a link to my current google location on the day of: [Nick's Current location]. I've tested this a little bit an it appears to work pretty well. Also feel free to text me to find out where we are. I should be capable of responding to texts until at least 5 or 6pm.
+    * I plan on putting a link to my current google location on the day of: [See my live location here!]. I've tested this a little bit an it appears to work pretty well. Also feel free to text me to find out where we are. I should be capable of responding to texts until at least 5 or 6pm.
 * Is this a formal thing with any of the bars listed?
     * Nope. Completely informal. I don't anticipate enough people to require any sort of planning.
 * What are we going to do for 5 hours?
@@ -104,4 +112,4 @@ These are either not on Atwood or not a bar. These are the light blue dots, or l
 
 
 <!-- TODO: Update the day of. The current link is expired. -->
-[Nick's Current location]: https://maps.app.goo.gl/3NqGnWHv5FHChQVc8
+[See my live location here!]: https://maps.app.goo.gl/Waxep7NezS9doh6V9
