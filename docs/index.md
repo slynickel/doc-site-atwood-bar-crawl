@@ -2,8 +2,7 @@
 <span style="font-size:larger;">word
 As of 1/13/23 we are still on! I'll be at One Barrel slightly before 2pm. 
 
-[See my live location here!](https://maps.app.goo.gl/Waxep7NezS9doh6V9
-).
+[See my live location here!]
 </span>
 
 ## What?
