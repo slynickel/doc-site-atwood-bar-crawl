@@ -1,6 +1,6 @@
 ## Update Saturday January 14th
-<span style="font-size:larger;">word
-As of 1/13/23 we are still on! I'll be at One Barrel slightly before 2pm. 
+<span style="font-size:larger;bold">
+🍻🍻 Update 1/13/23 we are on! I'll be at One Barrel slightly before 2pm. 🍻🍻
 
 [See my live location here!]
 </span>
