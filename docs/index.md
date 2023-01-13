@@ -1,8 +1,6 @@
 ## Update Saturday January 14th
 <span style="font-size:larger;bold">
-🍻🍻 Update 1/13/23 we are on! I'll be at One Barrel slightly before 2pm. 🍻🍻
-
-[See my live location here!]
+🍻🍻 Update 1/13/23: We are on! I'll be at One Barrel slightly before 2pm. 🍻🍻
 </span>
 
 ## What?
@@ -24,7 +22,8 @@ It's being called the first annual "DOA Bar Crawl" because all good bar crawls h
 
 ## Where?
 
-These are the target bars. 
+These are the target bars. We still be starting at One Barrel and be there from 2pm to at least 2:45pm.
+After that it's tough to know exactly where we will be when. I do plan to have us hit the bars in the order below.
 
 <!--
 This is a MyMaps Google map. 
@@ -34,9 +33,6 @@ added in attempt to force the site to not be super zoomed out. It's not clear th
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UVdmLFwleORKFIRq0Mciyfmav4QNYWw&ehbc=2E312F&z=15" width="100%" height="480"></iframe>
 
-
-
-See [Nick's Current location] (the link will only work day of). 
 
 A tentative order is below. Goal of this order is to prioritize places with good craft beer over just standard bars. 
 There are 6 listed below which is probably more then we'll get to but we will try.
@@ -94,7 +90,7 @@ These are either not on Atwood or not a bar. These are the light blue dots, or l
 * Is there an RSVP, who is invited?
     * Anyone is invited. No RSVP required, if you want to text Nick to let him know you are coming that would cool.
 * How will I know where to go at X time? 
-    * I plan on putting a link to my current google location on the day of: [See my live location here!]. I've tested this a little bit an it appears to work pretty well. Also feel free to text me to find out where we are. I should be capable of responding to texts until at least 5 or 6pm.
+    * We will be at One Barrel from at least 2-245pm. Feel free to text me to find out where we are. I should be capable of responding to texts until at least 5 or 6pm.
 * Is this a formal thing with any of the bars listed?
     * Nope. Completely informal. I don't anticipate enough people to require any sort of planning.
 * What are we going to do for 5 hours?
@@ -107,8 +103,3 @@ These are either not on Atwood or not a bar. These are the light blue dots, or l
     * Gee, thanks. Nick doesn't use any social media that makes it possible to setup a public event so this static site is filling the need. I created something dead simple that didn't require writing any client code.
     Cloudflare pages allows you to host this type of thing without needing to run any servers which is nice.
     * See [slynickel/doc-site-atwood-bar-crawl](https://github.com/slynickel/doc-site-atwood-bar-crawl) for the source.
-
-
-
-<!-- TODO: Update the day of. The current link is expired. -->
-[See my live location here!]: https://maps.app.goo.gl/Waxep7NezS9doh6V9
